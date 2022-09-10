@@ -1,2 +1,2 @@
 ### Refresh for more dogs!
-![Random Dog](https://placedog.net/1000/300?random)
+![readme](https://raw.githubusercontent.com/varunsridharan/action-dynamic-readme/main/README.md)
