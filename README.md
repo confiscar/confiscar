@@ -1,2 +1,2 @@
-### Refresh for more dogs!
-![readme](https://raw.githubusercontent.com/varunsridharan/action-dynamic-readme/main/README.md)
+Hi, I'm Fran.
+[I write stuff on my website sometimes.](https://confiscar.github.io)
